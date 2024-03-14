@@ -21,8 +21,8 @@ Esta é a solução para o [desafio pagina de receita no Frontend Mentor](https:
 
 ### Links
 
-- URL da solução: [Recipe Page Challenge Solution](https://your-solution-url.com)
-- Live Site URL: [Confira o site ao vivo](https://your-live-site-url.com)
+- URL da solução: [Recipe Page Challenge Solution](https://github.com/bitsbygui/recipe-page-main)
+- Live Site URL: [Confira o site ao vivo](https://bitsbygui.github.io/recipe-page-main/)
 
 ## Meu processo
 
