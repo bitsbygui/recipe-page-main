@@ -8,6 +8,10 @@
     box-sizing: border-box;
 }
 
+em{
+    font-weight: bold;
+}
+
 :root {
     --nutmeg: hsl(14, 45%, 36%);
     --dark-raspberry: hsl(332, 51%, 32%);
